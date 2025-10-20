@@ -1,0 +1,26 @@
+# ---------------------------------------------------
+# ملف المفاتيح الشامل لأداة حورس
+# ---------------------------------------------------
+# انسخ المفاتيح الخاصة بك هنا بنفس التنسيق.
+# يمكنك إضافة أي عدد من مفاتيح GEMINI.
+# سيتم استخدام مفتاح IMGBB و YOUTUBE و OPENROUTER الأول الذي يتم العثور عليه.
+# ---------------------------------------------------
+
+# -- مفاتيح Gemini API --
+GEMINI=YOUR_GEMINI_API_KEY_1
+GEMINI=YOUR_GEMINI_API_KEY_2
+
+# -- مفاتيح ImgBB API --
+IMGBB=YOUR_IMGBB_API_KEY
+
+# -- مفتاح YouTube Data API --
+YOUTUBE=YOUR_YOUTUBE_API_KEY
+
+# -- مفتاح OpenRouter API --
+OPENROUTER=YOUR_OPENROUTER_API_KEY
+
+# -- مفتاح OpenAI API --
+OPENAI=YOUR_OPENAI_API_KEY
+
+# -- مفتاح Pollinations API --
+POLLINATIONS=YOUR_POLLINATIONS_API_KEY
